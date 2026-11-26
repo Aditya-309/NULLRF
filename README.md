@@ -1,12 +1,12 @@
-# 🔦 OPTILINK
+# 🔦 NULLRF
 
-**OPTILINK** enables secure, RF-free communication using modulated infrared (IR) light. It provides line-of-sight, interference-free data transfer with high privacy and low detectability, integrating seamlessly with IoT networks via ESP32 nodes and centralized coordination.
+**NULLRF** enables secure, RF-free communication using modulated infrared (IR) light. It provides line-of-sight, interference-free data transfer with high privacy and low detectability, integrating seamlessly with IoT networks via ESP32 nodes and centralized coordination.
 
 ---
 
 ## 🧩 Overview
 
-OPTILINK is a secure, RF-free communication system that uses infrared (IR) transmitters and receivers to establish line-of-sight digital links. It enables reliable data transmission in environments where traditional radio frequency (RF) communication is blocked, jammed, or restricted — such as defense operations, industrial plants, and secure facilities.
+NULLRF is a secure, RF-free communication system that uses infrared (IR) transmitters and receivers to establish line-of-sight digital links. It enables reliable data transmission in environments where traditional radio frequency (RF) communication is blocked, jammed, or restricted — such as defense operations, industrial plants, and secure facilities.
 
 By modulating IR light for data transfer, OPTILINK ensures:
 1. Low detectability  
